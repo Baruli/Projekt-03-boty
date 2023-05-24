@@ -96,6 +96,7 @@ body {
     border-top-right-radius: 1rem;
     border-bottom-right-radius: 1rem;
     flex-basis: 100%;
+    position: relative;
 }
 
 h1 {
@@ -145,6 +146,10 @@ h1 {
     text-align: center;
     border-radius: 0.5rem;
     margin-top: 30px;
+    position: absolute;
+    left: 30px;
+    bottom: 30px;
+
 }
 .akce a {
     text-decoration: none;
